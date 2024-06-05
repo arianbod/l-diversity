@@ -1,0 +1,101 @@
+patientId,age,gender,zipCode,diagnosis
+1,61,M,10011,Hypertension
+2,54,F,10010,Asthma
+3,38,F,10047,Asthma
+4,59,F,10037,Heart Disease
+5,24,M,10023,Diabetes
+6,52,M,10048,Heart Disease
+7,34,M,10004,Asthma
+8,49,F,10004,Heart Disease
+9,52,F,10005,Arthritis
+10,56,M,10035,Arthritis
+11,32,M,10041,Asthma
+12,39,M,10040,Asthma
+13,42,F,10023,Arthritis
+14,27,M,10028,Hypertension
+15,54,F,10032,Diabetes
+16,52,M,10011,Arthritis
+17,47,F,10033,Asthma
+18,25,M,10022,Diabetes
+19,43,F,10049,Asthma
+20,36,F,10002,Asthma
+21,36,M,10024,Heart Disease
+22,65,F,10050,Diabetes
+23,27,F,10004,Hypertension
+24,64,M,10027,Arthritis
+25,29,F,10042,Asthma
+26,44,F,10001,Heart Disease
+27,30,F,10003,Diabetes
+28,25,M,10036,Asthma
+29,62,M,10009,Diabetes
+30,53,M,10039,Heart Disease
+31,52,M,10007,Heart Disease
+32,41,F,10011,Heart Disease
+33,28,F,10015,Arthritis
+34,40,F,10032,Diabetes
+35,52,M,10036,Diabetes
+36,63,M,10050,Hypertension
+37,53,F,10033,Hypertension
+38,31,M,10036,Asthma
+39,57,F,10042,Arthritis
+40,36,M,10006,Asthma
+41,21,F,10023,Heart Disease
+42,28,M,10036,Asthma
+43,41,M,10023,Hypertension
+44,33,M,10030,Diabetes
+45,42,F,10014,Hypertension
+46,39,F,10006,Hypertension
+47,25,M,10042,Asthma
+48,59,M,10024,Heart Disease
+49,24,M,10037,Asthma
+50,27,F,10047,Asthma
+51,25,M,10042,Diabetes
+52,23,M,10050,Heart Disease
+53,34,M,10001,Asthma
+54,27,F,10033,Hypertension
+55,29,F,10015,Heart Disease
+56,66,M,10011,Asthma
+57,20,F,10031,Heart Disease
+58,45,M,10016,Asthma
+59,59,M,10039,Heart Disease
+60,66,F,10021,Heart Disease
+61,24,F,10009,Arthritis
+62,25,M,10016,Arthritis
+63,26,F,10033,Asthma
+64,60,M,10042,Hypertension
+65,57,M,10011,Asthma
+66,23,M,10006,Diabetes
+67,50,F,10033,Hypertension
+68,65,M,10003,Heart Disease
+69,29,M,10026,Diabetes
+70,61,F,10041,Heart Disease
+71,26,F,10033,Arthritis
+72,35,F,10041,Arthritis
+73,49,F,10033,Hypertension
+74,51,F,10017,Asthma
+75,25,M,10041,Heart Disease
+76,57,F,10025,Hypertension
+77,45,F,10026,Arthritis
+78,52,F,10010,Diabetes
+79,42,F,10007,Arthritis
+80,68,F,10013,Asthma
+81,21,F,10048,Arthritis
+82,49,M,10047,Diabetes
+83,29,F,10039,Heart Disease
+84,51,F,10033,Heart Disease
+85,34,M,10036,Diabetes
+86,57,M,10034,Asthma
+87,70,M,10007,Diabetes
+88,44,F,10050,Arthritis
+89,31,M,10041,Asthma
+90,63,F,10017,Asthma
+91,39,F,10030,Diabetes
+92,48,M,10019,Asthma
+93,64,M,10009,Asthma
+94,27,M,10032,Arthritis
+95,20,M,10023,Arthritis
+96,43,F,10035,Asthma
+97,51,F,10033,Arthritis
+98,34,M,10029,Arthritis
+99,28,M,10025,Hypertension
+100,53,M,10035,Diabetes

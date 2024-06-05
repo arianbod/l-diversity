@@ -1,0 +1,72 @@
+[
+	{
+		"patientId": "1",
+		"age": 61,
+		"gender": "M",
+		"zipCode": "10011",
+		"diagnosis": "Hypertension"
+	},
+	{
+		"patientId": "2",
+		"age": 54,
+		"gender": "F",
+		"zipCode": "10010",
+		"diagnosis": "Asthma"
+	},
+	{
+		"patientId": "3",
+		"age": 38,
+		"gender": "F",
+		"zipCode": "10047",
+		"diagnosis": "Asthma"
+	},
+	{
+		"patientId": "4",
+		"age": 59,
+		"gender": "F",
+		"zipCode": "10037",
+		"diagnosis": "Heart Disease"
+	},
+	{
+		"patientId": "5",
+		"age": 24,
+		"gender": "M",
+		"zipCode": "10023",
+		"diagnosis": "Diabetes"
+	},
+	{
+		"patientId": "6",
+		"age": 52,
+		"gender": "M",
+		"zipCode": "10048",
+		"diagnosis": "Heart Disease"
+	},
+	{
+		"patientId": "7",
+		"age": 34,
+		"gender": "M",
+		"zipCode": "10004",
+		"diagnosis": "Asthma"
+	},
+	{
+		"patientId": "8",
+		"age": 49,
+		"gender": "F",
+		"zipCode": "10004",
+		"diagnosis": "Heart Disease"
+	},
+	{
+		"patientId": "9",
+		"age": 23,
+		"gender": "F",
+		"zipCode": "10005",
+		"diagnosis": "Arthritis"
+	},
+	{
+		"patientId": "10",
+		"age": 12,
+		"gender": "M",
+		"zipCode": "10035",
+		"diagnosis": "Arthritis"
+	}
+]

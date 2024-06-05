@@ -1,0 +1,702 @@
+[
+  {
+    "patientId": "1",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "2",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "3",
+    "age": "30-39",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "4",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "5",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "6",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "7",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "8",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "9",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "10",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "11",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "12",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "13",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "14",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "15",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "16",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "17",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "18",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "19",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "20",
+    "age": "30-39",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "21",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "22",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "23",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "24",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "25",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "26",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "27",
+    "age": "30-39",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "28",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "29",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "30",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "31",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "32",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "33",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "34",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "35",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "36",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "37",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "38",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "39",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "40",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "41",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "42",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "43",
+    "age": "40-49",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "44",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "45",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "46",
+    "age": "30-39",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "47",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "48",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "49",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "50",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "51",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "52",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "53",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "54",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "55",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "56",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "57",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "58",
+    "age": "40-49",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "59",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "60",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "61",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "62",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "63",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "64",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "65",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "66",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "67",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "68",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "69",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "70",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "71",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "72",
+    "age": "30-39",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "73",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "74",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "75",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "76",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "77",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "78",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "79",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "80",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "81",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "82",
+    "age": "40-49",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "83",
+    "age": "<30",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "84",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Heart Disease"
+  },
+  {
+    "patientId": "85",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "86",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "87",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "88",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "89",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "90",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "91",
+    "age": "30-39",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  },
+  {
+    "patientId": "92",
+    "age": "40-49",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "93",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "94",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "95",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "96",
+    "age": "40-49",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Asthma"
+  },
+  {
+    "patientId": "97",
+    "age": "50+",
+    "gender": "F",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "98",
+    "age": "30-39",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Arthritis"
+  },
+  {
+    "patientId": "99",
+    "age": "<30",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Hypertension"
+  },
+  {
+    "patientId": "100",
+    "age": "50+",
+    "gender": "M",
+    "zipCode": "100XX",
+    "diagnosis": "Diabetes"
+  }
+]
